@@ -1,2 +1,2 @@
 # hello-world
-personal repository 
+personal repository GitHub练习
